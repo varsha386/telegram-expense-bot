@@ -1,0 +1,9 @@
+# Secrets
+.env
+*.token
+secrets*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+~$*
